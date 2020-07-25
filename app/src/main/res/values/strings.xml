@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IFTTW</string>
+    <string name="tab_text_1">Active Routine</string>
+    <string name="tab_text_2">Inactive Routine</string>
+
+    <string name="time_picker">Pick A Time</string>
+    <string name="add_routines_title">Add Routine</string>
+    <string-array name="add_routines_condition">
+        <item>Accelerometer</item>
+        <item>Alarm Exact</item>
+        <item>Alarm Repeat Day</item>
+        <item>Alarm Repeat Week</item>
+    </string-array>
+
+    <string-array name="add_routines_action">
+        <item>API</item>
+        <item>Notification</item>
+        <item>WiFi</item>
+    </string-array>
+
+    <string name="notification_title">Default Notification Title</string>
+    <string name="notification_text">Default Notification Text</string>
+    <string name="error">NOPE</string>
+    <string name="wifi_on">Wifi On!</string>
+    <string name="wifi_off">Wifi Off!</string>
+    <string name="update">Update</string>
+    <string name="prompt">Condition</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
